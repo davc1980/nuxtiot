@@ -1,6 +1,6 @@
 <template>
     <div>
         <h1>About Page</h1>
-        <a href="/">home</a>
+        <nuxt-link to="/">Home</nuxt-link>
     </div>
 </template>
